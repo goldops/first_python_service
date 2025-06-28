@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Flask App Systemd Service Setup
 
