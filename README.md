@@ -140,7 +140,4 @@ Your Flask app is now running as a resilient background service managed by `syst
 
 ```
 
----
-
-Let me know if your app uses environment variables, `gunicorn`, or a reverse proxy — I can include that too.
 ```
