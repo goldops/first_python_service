@@ -1,7 +1,3 @@
-Absolutely — here’s a clean, production-ready `README.md` that documents **how to set up and run your Flask app as a `systemd` service using a Python virtual environment**.
-
-You can copy-paste or tweak it to match your project structure.
-
 ---
 
 ```markdown
@@ -138,6 +134,3 @@ sudo systemctl disable python.service
 
 Your Flask app is now running as a resilient background service managed by `systemd`.
 
-```
-
-```
